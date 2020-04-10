@@ -40,6 +40,19 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 
 - **`POST /repositories/:id/like`**: A rota deve aumentar o número de likes do repositório específico escolhido através do `id` presente nos parâmetros da rota, a cada chamada dessa rota, o número de likes deve ser aumentado em 1;
 
+### 🔖 Workspace Insomnia
+
+Você pode importar em seu insomnia o workspace desse projeto que está localizado em: src/assets/environment/Insomnia.json
+
+Para importar abra o software Insomnia - [Link para Download](https://insomnia.rest/download/) e faça: 
+ * Clique em Insomnia (Nome do workspace atual)
+ * Clique em Import/Export
+ * Selecione a aba Data
+ * Import Data
+ * From File
+ * Selecione o arquivo mencionado acima
+ * Import
+
 ### Específicação dos testes
 
 Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
